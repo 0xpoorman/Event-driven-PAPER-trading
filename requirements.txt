@@ -1,0 +1,12 @@
+ib_async
+pytz
+pandas
+numpy
+matplotlib
+fastapi
+python-dotenv
+dash
+plotly
+kraken-sdk
+websockets
+requests

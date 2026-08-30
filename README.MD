@@ -1,4 +1,4 @@
-# IBKR Live Candles + SMA Strategy (SQLite + Dash)
+# Python PAPER TRADING Candles + SMA Strategy & more (SQLite + Dash)
 
 This repository houses an Interactive Brokers (IBKR) first stack: live futures data is streamed from TWS/Gateway, aggregated into 1‑minute candles, stored in SQLite (WAL mode), visualised in Dash, and traded via a simple SMA crossover strategy that can submit Adaptive market orders.
 
